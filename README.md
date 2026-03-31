@@ -15,11 +15,6 @@ Experienced in designing and prototyping electronic circuits, from simulation to
 - Python  
 - MATLAB  
 
-### 🔌 Embedded & Hardware
-- STM32 
-- ESP32  
-
-
 ### 🛠️ Engineering Tools
 - KiCad  
 - Altium Designer  
@@ -27,4 +22,8 @@ Experienced in designing and prototyping electronic circuits, from simulation to
 - STM32CubeIDE  
 - Multisim  
 - LTspice  
-- ControlDesk (dSPACE)  
+- ControlDesk (dSPACE)
+
+### 🔌 Embedded & Hardware
+- STM32 
+- ESP32  
