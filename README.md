@@ -1,6 +1,4 @@
 # Miguel Gonçalves Gomes
- 
-
 
 ## I am an Electrical Engineering student and undergraduate researcher with a strong interest in **embedded systems, power electronics, and control systems**. I have practical experience developing electronic circuits, from simulation to PCB implementation.     
 
